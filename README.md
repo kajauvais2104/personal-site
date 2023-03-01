@@ -1,2 +1,2 @@
 # personal-site
- [Link](https://uvaispersonalsite.netlify.app/)
+ [Live Demo](https://uvaispersonalsite.netlify.app/)
